@@ -2,7 +2,7 @@
 
 🎓 Undergraduate student in Information Technology (Knowledge Technology) at the University of Science, VNU-HCM (HCMUS).
 
-I'm interested in building trustworthy AI systems by combining Natural Language Processing, Information Retrieval, and Large Language Models. My recent work focuses on Retrieval-Augmented Generation (RAG) and LLM evaluation.
+I'm interested in building trustworthy AI systems by combining Natural Language Processing, Information Retrieval, and Large Language Models. My recent work focuses on Retrieval-Augmented Generation (RAG), LLM and Speech AI.
 
 ---
 
