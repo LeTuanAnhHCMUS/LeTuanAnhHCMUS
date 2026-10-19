@@ -6,13 +6,11 @@ I'm interested in building trustworthy AI systems by combining Natural Language 
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Info
 
 📧 **Email:** letuananh22005@gmail.com
-
-🎓 **University:** University of Science, VNU-HCM
-
-🌏 Viet Nam
+🎓 **Education:** B.S. in Information Technology (Specialization in Knowledge Technology), University of Science, VNU-HCM (HCMUS)
+🌏 **Location:** Ho Chi Minh City, Vietnam
 
 <!--
 **LeTuanAnhHCMUS/LeTuanAnhHCMUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
