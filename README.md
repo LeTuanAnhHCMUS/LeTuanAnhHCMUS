@@ -12,7 +12,7 @@ I'm interested in building trustworthy AI systems by combining Natural Language 
 
 🎓 **University:** University of Science, VNU-HCM
 
-🌏 Vietnam
+🌏 Viet Nam
 
 <!--
 **LeTuanAnhHCMUS/LeTuanAnhHCMUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
