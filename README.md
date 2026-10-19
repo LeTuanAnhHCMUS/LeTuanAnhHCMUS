@@ -9,7 +9,9 @@ I'm interested in building trustworthy AI systems by combining Natural Language 
 ## 📫 Contact & Info
 
 📧 **Email:** letuananh22005@gmail.com
+
 🎓 **Education:** B.S. in Information Technology (Specialization in Knowledge Technology), University of Science, VNU-HCM (HCMUS)
+
 🌏 **Location:** Ho Chi Minh City, Vietnam
 
 <!--
